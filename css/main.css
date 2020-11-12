@@ -1,0 +1,39 @@
+#semilla {
+height: 600px;
+background-image: url(/comunidad-sostenible/img/semilla.jpg);
+background-position: center;
+background-size: cover;  
+}
+
+#logo {
+  height: 100px;
+  background-image: url(/comunidad-sostenible/img/ecomunidad-logo.png);
+  background-size: 140px;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 120px;
+  left: 50px;
+  margin-top: 10px;
+  margin-bottom: 20px;  
+}
+
+.metodologia {
+  height: 600px;
+  background-image: url(/comunidad-sostenible/img/fondo.jpg);
+  background-position: center;
+  background-size: cover; 
+  text-align: center; 
+  vertical-align: 300px;
+}
+
+.rfoto{
+  height: 600px;
+  background-image: url(/comunidad-sostenible/img/metodo.JPG);
+  background-position: center;
+  background-size: cover;  
+}
+
+.proyectos {
+  height: 600px;
+  background-color: #5F8039;
+}
