@@ -1,13 +1,13 @@
 #semilla {
   height: 600px;
-  background-image: url(/img/semilla.jpg);
+  background-image: url(../img/semilla.jpg);
   background-position: center;
   background-size: cover;  
 }
 
 .fcarrusel {
   height: 510px;
-  background-image: url(/img/fondo2.jpg);
+  background-image: url(../img/fondo2.jpg);
   background-position: center;
   background-size: cover; 
   background-repeat: no-repeat;
@@ -22,7 +22,7 @@
 }
 
 #logo {
-  background-image: url(/img/ecomunidad-logo.png);
+  background-image: url(../img/ecomunidad-logo.png);
   background-size: 140px;
   background-position: center;
   background-repeat: no-repeat;
@@ -34,7 +34,7 @@
 
 .metodologia {
   height: 600px;
-  background-image: url(/img/fondo.jpg);
+  background-image: url(../img/fondo.jpg);
   background-position: center;
   background-size: cover; 
   text-align: center; 
@@ -43,7 +43,7 @@
 
 .rfoto{
   height: 600px;
-  background-image: url(/img/metodo.JPG);
+  background-image: url(../img/metodo.JPG);
   background-position: center;
   background-size: cover;  
 }
