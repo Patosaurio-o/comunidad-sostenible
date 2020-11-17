@@ -1,13 +1,28 @@
 #semilla {
-height: 600px;
-background-image: url(/comunidad-sostenible/img/semilla.jpg);
-background-position: center;
-background-size: cover;  
+  height: 600px;
+  background-image: url(/img/semilla.jpg);
+  background-position: center;
+  background-size: cover;  
+}
+
+.fcarrusel {
+  height: 510px;
+  background-image: url(/img/fondo2.jpg);
+  background-position: center;
+  background-size: cover; 
+  background-repeat: no-repeat;
+}
+
+.scarrusel {
+  height: 200px;
+}
+
+.pcarrusel{
+  width: 350px;
 }
 
 #logo {
-  height: 100px;
-  background-image: url(/comunidad-sostenible/img/ecomunidad-logo.png);
+  background-image: url(/img/ecomunidad-logo.png);
   background-size: 140px;
   background-position: center;
   background-repeat: no-repeat;
@@ -19,7 +34,7 @@ background-size: cover;
 
 .metodologia {
   height: 600px;
-  background-image: url(/comunidad-sostenible/img/fondo.jpg);
+  background-image: url(/img/fondo.jpg);
   background-position: center;
   background-size: cover; 
   text-align: center; 
@@ -28,12 +43,29 @@ background-size: cover;
 
 .rfoto{
   height: 600px;
-  background-image: url(/comunidad-sostenible/img/metodo.JPG);
+  background-image: url(/img/metodo.JPG);
   background-position: center;
   background-size: cover;  
 }
 
 .proyectos {
-  height: 600px;
+  height: 910px;
   background-color: #5F8039;
+}
+
+.radio {
+  height: 300px;
+  border-radius: 300px;
+  background-position: top;
+  background-size: cover; 
+}
+
+.iconos {
+  height: 35px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.verde {
+  color: #5F8039;
 }
